@@ -368,4 +368,4 @@ class GameOwner(Game):
 
 
 mods = ["all"]
-ip = '95.157.165.95'
+ip = 'your server's ip adress'
